@@ -1,3 +1,3 @@
 # dbmsPathus
 
-![pathusLogo](Projectname Logo.jpg)
+![pathusLogo](Projectname%20Logo.jpg)
